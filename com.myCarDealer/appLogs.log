@@ -1,0 +1,769 @@
+Feb-10-2021 Wednesday CST 10:06:18	{INFO}	com.app.main.MyCarDealerAppDriver	
+MyCarDealerApp V1.00
+Feb-10-2021 Wednesday CST 10:06:18	{INFO}	com.app.main.MyCarDealerAppDriver	
+
+You can choose an option below by entering the number associated with that option
+Feb-10-2021 Wednesday CST 10:06:18	{INFO}	com.app.main.MyCarDealerAppDriver	
+1) I am a customer
+Feb-10-2021 Wednesday CST 10:06:18	{INFO}	com.app.main.MyCarDealerAppDriver	
+2) I am an employee
+Feb-10-2021 Wednesday CST 10:06:18	{INFO}	com.app.main.MyCarDealerAppDriver	
+3) Exit application
+Feb-10-2021 Wednesday CST 10:06:33	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 10:06:33	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 10:06:33	{INFO}	com.app.menu.LoginMenu	
+Welcome!
+Feb-10-2021 Wednesday CST 10:06:33	{INFO}	com.app.menu.LoginMenu	
+Please login or register to move forward.
+Feb-10-2021 Wednesday CST 10:06:33	{INFO}	com.app.menu.LoginMenu	
+1) Login
+Feb-10-2021 Wednesday CST 10:06:33	{INFO}	com.app.menu.LoginMenu	
+2) Register
+Feb-10-2021 Wednesday CST 10:06:33	{INFO}	com.app.menu.LoginMenu	
+3) Go back
+Feb-10-2021 Wednesday CST 10:06:35	{TRACE}	com.app.menuFunction.AcquireInput	
+111111(Logged)
+Feb-10-2021 Wednesday CST 10:06:35	{INFO}	com.app.menu.LoginMenu	
+Your input could not be accepted. Please try again.
+Feb-10-2021 Wednesday CST 10:06:35	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 10:06:35	{INFO}	com.app.menu.LoginMenu	
+Welcome!
+Feb-10-2021 Wednesday CST 10:06:35	{INFO}	com.app.menu.LoginMenu	
+Please login or register to move forward.
+Feb-10-2021 Wednesday CST 10:06:35	{INFO}	com.app.menu.LoginMenu	
+1) Login
+Feb-10-2021 Wednesday CST 10:06:35	{INFO}	com.app.menu.LoginMenu	
+2) Register
+Feb-10-2021 Wednesday CST 10:06:35	{INFO}	com.app.menu.LoginMenu	
+3) Go back
+Feb-10-2021 Wednesday CST 10:06:38	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 10:06:38	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 10:06:38	{INFO}	com.app.menu.LoginMenu	
+Please enter your user name.
+Feb-10-2021 Wednesday CST 10:06:39	{INFO}	com.app.menu.LoginMenu	
+Please enter your password
+Feb-10-2021 Wednesday CST 10:06:42	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 10:06:42	{INFO}	com.app.menu.HomeMenu	
+Hello! Test01. How can I help you today
+Feb-10-2021 Wednesday CST 10:06:42	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 10:06:42	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option
+
+Feb-10-2021 Wednesday CST 10:06:42	{INFO}	com.app.menu.HomeMenu	
+1) View cars in the lot.
+Feb-10-2021 Wednesday CST 10:06:42	{INFO}	com.app.menu.HomeMenu	
+2) Make an offer for a car.
+Feb-10-2021 Wednesday CST 10:06:42	{INFO}	com.app.menu.HomeMenu	
+3) View the cars I own.
+Feb-10-2021 Wednesday CST 10:06:42	{INFO}	com.app.menu.HomeMenu	
+4) View remaining payments for a car.
+Feb-10-2021 Wednesday CST 10:06:42	{INFO}	com.app.menu.HomeMenu	
+5) Log out.
+Feb-10-2021 Wednesday CST 10:08:23	{INFO}	com.app.main.MyCarDealerAppDriver	
+MyCarDealerApp V1.00
+Feb-10-2021 Wednesday CST 10:08:23	{INFO}	com.app.main.MyCarDealerAppDriver	
+
+You can choose an option below by entering the number associated with that option
+Feb-10-2021 Wednesday CST 10:08:23	{INFO}	com.app.main.MyCarDealerAppDriver	
+1) I am a customer
+Feb-10-2021 Wednesday CST 10:08:23	{INFO}	com.app.main.MyCarDealerAppDriver	
+2) I am an employee
+Feb-10-2021 Wednesday CST 10:08:23	{INFO}	com.app.main.MyCarDealerAppDriver	
+3) Exit application
+Feb-10-2021 Wednesday CST 10:08:31	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 10:08:31	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 10:08:31	{INFO}	com.app.menu.LoginMenu	
+Welcome!
+Feb-10-2021 Wednesday CST 10:08:31	{INFO}	com.app.menu.LoginMenu	
+Please login or register to move forward.
+Feb-10-2021 Wednesday CST 10:08:31	{INFO}	com.app.menu.LoginMenu	
+1) Login
+Feb-10-2021 Wednesday CST 10:08:31	{INFO}	com.app.menu.LoginMenu	
+2) Register
+Feb-10-2021 Wednesday CST 10:08:31	{INFO}	com.app.menu.LoginMenu	
+3) Go back
+Feb-10-2021 Wednesday CST 10:08:34	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 10:08:34	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 10:08:34	{INFO}	com.app.menu.LoginMenu	
+Please enter your user name.
+Feb-10-2021 Wednesday CST 10:08:35	{INFO}	com.app.menu.LoginMenu	
+Please enter your password
+Feb-10-2021 Wednesday CST 10:08:38	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 10:08:38	{INFO}	com.app.menu.HomeMenu	
+Hello! Test01. How can I help you today
+Feb-10-2021 Wednesday CST 10:08:38	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 10:08:38	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option
+
+Feb-10-2021 Wednesday CST 10:08:38	{INFO}	com.app.menu.HomeMenu	
+1) View cars in the lot.
+Feb-10-2021 Wednesday CST 10:08:38	{INFO}	com.app.menu.HomeMenu	
+2) Make an offer for a car.
+Feb-10-2021 Wednesday CST 10:08:38	{INFO}	com.app.menu.HomeMenu	
+3) View the cars I own.
+Feb-10-2021 Wednesday CST 10:08:38	{INFO}	com.app.menu.HomeMenu	
+4) View remaining payments for a car.
+Feb-10-2021 Wednesday CST 10:08:38	{INFO}	com.app.menu.HomeMenu	
+5) Log out.
+Feb-10-2021 Wednesday CST 10:09:09	{TRACE}	com.app.menuFunction.AcquireInput	
+4(Logged)
+Feb-10-2021 Wednesday CST 10:09:10	{INFO}	com.app.menu.HomeMenu	
+Which car do you want to view the payments for?
+Feb-10-2021 Wednesday CST 10:09:10	{INFO}	com.app.menu.HomeMenu	
+1) ID:26 Tesla Model S 2014 Red Mileage:90000 waiting_for_pickup $50000.0 Location:out
+Feb-10-2021 Wednesday CST 10:09:10	{INFO}	com.app.menu.HomeMenu	
+2) ID:9 Tesla Model 3 2017 gray Mileage:68410 waiting_for_pickup $30000.0 Location:A023
+Feb-10-2021 Wednesday CST 10:09:10	{INFO}	com.app.menu.HomeMenu	
+3) ID:24 Tesla Model Y 2019 White Mileage:23048 waiting_for_pickup $48000.0 Location:B004
+Feb-10-2021 Wednesday CST 10:09:10	{INFO}	com.app.menu.HomeMenu	
+4) ID:40 Lexus GS300 2000 black Mileage:150000 waiting_for_pickup $4000.0 Location:F089
+Feb-10-2021 Wednesday CST 10:09:12	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+Payment [id=8, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 00:29:45, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+Payment [id=9, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 01:53:05, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+Payment [id=10, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 01:54:08, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+Payment [id=126, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 02:52:25, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+Payment [id=47, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 01:56:31, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+Payment [id=163, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 02:52:53, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+Payment [id=200, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 02:57:00, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option
+
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+1) View cars in the lot.
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+2) Make an offer for a car.
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+3) View the cars I own.
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+4) View remaining payments for a car.
+Feb-10-2021 Wednesday CST 10:09:13	{INFO}	com.app.menu.HomeMenu	
+5) Log out.
+Feb-10-2021 Wednesday CST 10:11:56	{TRACE}	com.app.menuFunction.AcquireInput	
+4(Logged)
+Feb-10-2021 Wednesday CST 10:11:57	{INFO}	com.app.menu.HomeMenu	
+Which car do you want to view the payments for?
+Feb-10-2021 Wednesday CST 10:11:57	{INFO}	com.app.menu.HomeMenu	
+1) ID:26 Tesla Model S 2014 Red Mileage:90000 waiting_for_pickup $50000.0 Location:out
+Feb-10-2021 Wednesday CST 10:11:57	{INFO}	com.app.menu.HomeMenu	
+2) ID:9 Tesla Model 3 2017 gray Mileage:68410 waiting_for_pickup $30000.0 Location:A023
+Feb-10-2021 Wednesday CST 10:11:57	{INFO}	com.app.menu.HomeMenu	
+3) ID:24 Tesla Model Y 2019 White Mileage:23048 waiting_for_pickup $48000.0 Location:B004
+Feb-10-2021 Wednesday CST 10:11:57	{INFO}	com.app.menu.HomeMenu	
+4) ID:40 Lexus GS300 2000 black Mileage:150000 waiting_for_pickup $4000.0 Location:F089
+Feb-10-2021 Wednesday CST 10:11:59	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+Payment [id=8, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 00:29:45, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+Payment [id=9, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 01:53:05, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+Payment [id=10, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 01:54:08, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+Payment [id=126, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 02:52:25, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+Payment [id=47, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 01:56:31, status=failed_to_charge, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=true, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+Payment [id=163, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 02:52:53, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+Payment [id=200, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 02:57:00, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option
+
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+1) View cars in the lot.
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+2) Make an offer for a car.
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+3) View the cars I own.
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+4) View remaining payments for a car.
+Feb-10-2021 Wednesday CST 10:12:00	{INFO}	com.app.menu.HomeMenu	
+5) Log out.
+Feb-10-2021 Wednesday CST 11:17:48	{INFO}	com.app.main.MyCarDealerAppDriver	
+MyCarDealerApp V1.00
+Feb-10-2021 Wednesday CST 11:17:48	{INFO}	com.app.main.MyCarDealerAppDriver	
+
+You can choose an option below by entering the number associated with that option
+Feb-10-2021 Wednesday CST 11:17:48	{INFO}	com.app.main.MyCarDealerAppDriver	
+1) I am a customer
+Feb-10-2021 Wednesday CST 11:17:48	{INFO}	com.app.main.MyCarDealerAppDriver	
+2) I am an employee
+Feb-10-2021 Wednesday CST 11:17:48	{INFO}	com.app.main.MyCarDealerAppDriver	
+3) Exit application
+Feb-10-2021 Wednesday CST 11:17:57	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 11:17:57	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:17:57	{INFO}	com.app.menu.LoginMenu	
+Welcome!
+Feb-10-2021 Wednesday CST 11:17:57	{INFO}	com.app.menu.LoginMenu	
+Please login or register to move forward.
+Feb-10-2021 Wednesday CST 11:17:57	{INFO}	com.app.menu.LoginMenu	
+1) Login
+Feb-10-2021 Wednesday CST 11:17:57	{INFO}	com.app.menu.LoginMenu	
+2) Register
+Feb-10-2021 Wednesday CST 11:17:57	{INFO}	com.app.menu.LoginMenu	
+3) Go back
+Feb-10-2021 Wednesday CST 11:18:01	{TRACE}	com.app.menuFunction.AcquireInput	
+2(Logged)
+Feb-10-2021 Wednesday CST 11:18:01	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:18:01	{INFO}	com.app.menu.LoginMenu	
+Thank you for your interest of becoming a MyCarDealer customer.
+
+Feb-10-2021 Wednesday CST 11:18:01	{INFO}	com.app.menu.LoginMenu	
+In order to complete the regisration, you will be required to enter the following infomation.
+Feb-10-2021 Wednesday CST 11:18:01	{INFO}	com.app.menu.LoginMenu	
+First Name, Last Name, Date of Birth, Social Security Number, 
+Feb-10-2021 Wednesday CST 11:18:01	{INFO}	com.app.menu.LoginMenu	
+Current Address, Phone Number, Email, Credit Score, Driver's Licence, etc
+
+Feb-10-2021 Wednesday CST 11:18:01	{INFO}	com.app.menu.LoginMenu	
+Do you wish to continue?
+Feb-10-2021 Wednesday CST 11:18:01	{INFO}	com.app.menu.LoginMenu	
+1) Yes
+Feb-10-2021 Wednesday CST 11:18:01	{INFO}	com.app.menu.LoginMenu	
+2) No
+Feb-10-2021 Wednesday CST 11:18:12	{TRACE}	com.app.menuFunction.AcquireInput	
+2(Logged)
+Feb-10-2021 Wednesday CST 11:18:12	{INFO}	com.app.menu.LoginMenu	
+Going back
+Feb-10-2021 Wednesday CST 11:18:12	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:18:12	{INFO}	com.app.menu.LoginMenu	
+Welcome!
+Feb-10-2021 Wednesday CST 11:18:12	{INFO}	com.app.menu.LoginMenu	
+Please login or register to move forward.
+Feb-10-2021 Wednesday CST 11:18:12	{INFO}	com.app.menu.LoginMenu	
+1) Login
+Feb-10-2021 Wednesday CST 11:18:12	{INFO}	com.app.menu.LoginMenu	
+2) Register
+Feb-10-2021 Wednesday CST 11:18:12	{INFO}	com.app.menu.LoginMenu	
+3) Go back
+Feb-10-2021 Wednesday CST 11:18:15	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 11:18:15	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:18:15	{INFO}	com.app.menu.LoginMenu	
+Please enter your user name.
+Feb-10-2021 Wednesday CST 11:18:19	{INFO}	com.app.menu.LoginMenu	
+Please enter your password
+Feb-10-2021 Wednesday CST 11:18:21	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:18:21	{INFO}	com.app.menu.HomeMenu	
+Hello! Test01. How can I help you today
+Feb-10-2021 Wednesday CST 11:18:21	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 11:18:21	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option
+
+Feb-10-2021 Wednesday CST 11:18:21	{INFO}	com.app.menu.HomeMenu	
+1) View cars in the lot.
+Feb-10-2021 Wednesday CST 11:18:21	{INFO}	com.app.menu.HomeMenu	
+2) Make an offer for a car.
+Feb-10-2021 Wednesday CST 11:18:21	{INFO}	com.app.menu.HomeMenu	
+3) View the cars I own.
+Feb-10-2021 Wednesday CST 11:18:21	{INFO}	com.app.menu.HomeMenu	
+4) View remaining payments for a car.
+Feb-10-2021 Wednesday CST 11:18:21	{INFO}	com.app.menu.HomeMenu	
+5) Log out.
+Feb-10-2021 Wednesday CST 11:18:25	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 11:18:25	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+ID:25 Tesla Model X 2015 Black Mileage:120000 for_sale $60000.0 Location:F035
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+ID:9 Tesla Model 3 2017 gray Mileage:68410 waiting_for_pickup $30000.0 Location:A023
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+ID:24 Tesla Model Y 2019 White Mileage:23048 waiting_for_pickup $48000.0 Location:B004
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+ID:40 Lexus GS300 2000 black Mileage:150000 waiting_for_pickup $4000.0 Location:F089
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option
+
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+1) View cars in the lot.
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+2) Make an offer for a car.
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+3) View the cars I own.
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+4) View remaining payments for a car.
+Feb-10-2021 Wednesday CST 11:18:26	{INFO}	com.app.menu.HomeMenu	
+5) Log out.
+Feb-10-2021 Wednesday CST 11:18:39	{TRACE}	com.app.menuFunction.AcquireInput	
+2(Logged)
+Feb-10-2021 Wednesday CST 11:18:39	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:18:39	{INFO}	com.app.menu.HomeMenu	
+Please enter the ID of the car that you are interested in.
+Feb-10-2021 Wednesday CST 11:18:48	{TRACE}	com.app.menuFunction.AcquireInput	
+40(Logged)
+Feb-10-2021 Wednesday CST 11:18:48	{INFO}	com.app.menu.HomeMenu	
+Please enter your offer to that car.
+Feb-10-2021 Wednesday CST 11:18:53	{TRACE}	com.app.menuFunction.AcquireInput	
+8000.0
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+An offer had been make to the car with the ID of 40 with $8000.0
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+Our employees will review your offer and contact the owner of the car.
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+Meanwhile, please feel free to make another offer.
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+Thank you for using our service.
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option
+
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+1) View cars in the lot.
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+2) Make an offer for a car.
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+3) View the cars I own.
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+4) View remaining payments for a car.
+Feb-10-2021 Wednesday CST 11:18:53	{INFO}	com.app.menu.HomeMenu	
+5) Log out.
+Feb-10-2021 Wednesday CST 11:19:04	{TRACE}	com.app.menuFunction.AcquireInput	
+3(Logged)
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+ID:26 Tesla Model S 2014 Red Mileage:90000 waiting_for_pickup $50000.0 Location:out
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+ID:9 Tesla Model 3 2017 gray Mileage:68410 waiting_for_pickup $30000.0 Location:A023
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+ID:24 Tesla Model Y 2019 White Mileage:23048 waiting_for_pickup $48000.0 Location:B004
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+ID:40 Lexus GS300 2000 black Mileage:150000 waiting_for_pickup $4000.0 Location:F089
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option
+
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+1) View cars in the lot.
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+2) Make an offer for a car.
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+3) View the cars I own.
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+4) View remaining payments for a car.
+Feb-10-2021 Wednesday CST 11:19:04	{INFO}	com.app.menu.HomeMenu	
+5) Log out.
+Feb-10-2021 Wednesday CST 11:19:23	{TRACE}	com.app.menuFunction.AcquireInput	
+4(Logged)
+Feb-10-2021 Wednesday CST 11:19:23	{INFO}	com.app.menu.HomeMenu	
+Which car do you want to view the payments for?
+Feb-10-2021 Wednesday CST 11:19:23	{INFO}	com.app.menu.HomeMenu	
+1) ID:26 Tesla Model S 2014 Red Mileage:90000 waiting_for_pickup $50000.0 Location:out
+Feb-10-2021 Wednesday CST 11:19:23	{INFO}	com.app.menu.HomeMenu	
+2) ID:9 Tesla Model 3 2017 gray Mileage:68410 waiting_for_pickup $30000.0 Location:A023
+Feb-10-2021 Wednesday CST 11:19:23	{INFO}	com.app.menu.HomeMenu	
+3) ID:24 Tesla Model Y 2019 White Mileage:23048 waiting_for_pickup $48000.0 Location:B004
+Feb-10-2021 Wednesday CST 11:19:23	{INFO}	com.app.menu.HomeMenu	
+4) ID:40 Lexus GS300 2000 black Mileage:150000 waiting_for_pickup $4000.0 Location:F089
+Feb-10-2021 Wednesday CST 11:19:37	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+Payment [id=8, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 00:29:45, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+Payment [id=9, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 01:53:05, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+Payment [id=10, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 01:54:08, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+Payment [id=126, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 02:52:25, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+Payment [id=47, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 01:56:31, status=failed_to_charge, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=true, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+Payment [id=163, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 02:52:53, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+Payment [id=200, total_amount=999.0, date_generated=2021-Feb-10 Wednesday CST -0600 02:57:00, status=pending, interest=0.0, principal=999.0, date_due=null, date_completed=null, is_late=false, customer_id=1, car_id=26, Loan_id=0]
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option
+
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+1) View cars in the lot.
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+2) Make an offer for a car.
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+3) View the cars I own.
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+4) View remaining payments for a car.
+Feb-10-2021 Wednesday CST 11:19:38	{INFO}	com.app.menu.HomeMenu	
+5) Log out.
+Feb-10-2021 Wednesday CST 11:19:55	{TRACE}	com.app.menuFunction.AcquireInput	
+5(Logged)
+Feb-10-2021 Wednesday CST 11:19:55	{INFO}	com.app.menu.HomeMenu	
+Thank your for using our service!
+Feb-10-2021 Wednesday CST 11:19:55	{INFO}	com.app.menu.HomeMenu	
+logging out...
+Feb-10-2021 Wednesday CST 11:19:55	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:19:55	{INFO}	com.app.menu.LoginMenu	
+Welcome!
+Feb-10-2021 Wednesday CST 11:19:55	{INFO}	com.app.menu.LoginMenu	
+Please login or register to move forward.
+Feb-10-2021 Wednesday CST 11:19:55	{INFO}	com.app.menu.LoginMenu	
+1) Login
+Feb-10-2021 Wednesday CST 11:19:55	{INFO}	com.app.menu.LoginMenu	
+2) Register
+Feb-10-2021 Wednesday CST 11:19:55	{INFO}	com.app.menu.LoginMenu	
+3) Go back
+Feb-10-2021 Wednesday CST 11:20:00	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 11:20:00	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:20:00	{INFO}	com.app.menu.LoginMenu	
+Please enter your user name.
+Feb-10-2021 Wednesday CST 11:20:06	{INFO}	com.app.main.MyCarDealerAppDriver	
+MyCarDealerApp V1.00
+Feb-10-2021 Wednesday CST 11:20:06	{INFO}	com.app.main.MyCarDealerAppDriver	
+
+You can choose an option below by entering the number associated with that option
+Feb-10-2021 Wednesday CST 11:20:06	{INFO}	com.app.main.MyCarDealerAppDriver	
+1) I am a customer
+Feb-10-2021 Wednesday CST 11:20:06	{INFO}	com.app.main.MyCarDealerAppDriver	
+2) I am an employee
+Feb-10-2021 Wednesday CST 11:20:06	{INFO}	com.app.main.MyCarDealerAppDriver	
+3) Exit application
+Feb-10-2021 Wednesday CST 11:20:09	{TRACE}	com.app.menuFunction.AcquireInput	
+2(Logged)
+Feb-10-2021 Wednesday CST 11:20:09	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:20:09	{INFO}	com.app.menu.LoginMenu	
+Please enter your user name.
+Feb-10-2021 Wednesday CST 11:20:12	{INFO}	com.app.menu.LoginMenu	
+Please enter your password
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+Hello! John.
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option.
+
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+1) Add a car to the lot.
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+2) Accept an offer for a car.
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+3) Reject and offer for a car.
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+4) Register a customer.
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+5) Remove a car from the lot.
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+6) View the payments for a customer.
+Feb-10-2021 Wednesday CST 11:20:14	{INFO}	com.app.menu.HomeMenu	
+7) Log out.
+Feb-10-2021 Wednesday CST 11:20:26	{TRACE}	com.app.menuFunction.AcquireInput	
+2(Logged)
+Feb-10-2021 Wednesday CST 11:20:26	{INFO}	com.app.menu.HomeMenu	
+Please enter the ID of the car.
+Feb-10-2021 Wednesday CST 11:20:40	{TRACE}	com.app.menuFunction.AcquireInput	
+25(Logged)
+Feb-10-2021 Wednesday CST 11:20:41	{INFO}	com.app.menu.HomeMenu	
+Which offer do you want to accept?
+Feb-10-2021 Wednesday CST 11:20:41	{INFO}	com.app.menu.HomeMenu	
+1) Offer [id=7, offer_by_customer=3, offer_created_time=Now, offer_completed_time=, offer_amount=1100.0, car_id=25, status=bidding, accepted_by=0, rejected_by=0]
+Feb-10-2021 Wednesday CST 11:20:41	{INFO}	com.app.menu.HomeMenu	
+2) Offer [id=1, offer_by_customer=3, offer_created_time=Now, offer_completed_time=, offer_amount=4560.5, car_id=25, status=bidding, accepted_by=0, rejected_by=0]
+Feb-10-2021 Wednesday CST 11:20:41	{INFO}	com.app.menu.HomeMenu	
+3) Offer [id=10, offer_by_customer=3, offer_created_time=now, offer_completed_time=, offer_amount=8888.0, car_id=25, status=bidding, accepted_by=0, rejected_by=0]
+Feb-10-2021 Wednesday CST 11:21:04	{INFO}	com.app.main.MyCarDealerAppDriver	
+MyCarDealerApp V1.00
+Feb-10-2021 Wednesday CST 11:21:04	{INFO}	com.app.main.MyCarDealerAppDriver	
+
+You can choose an option below by entering the number associated with that option
+Feb-10-2021 Wednesday CST 11:21:04	{INFO}	com.app.main.MyCarDealerAppDriver	
+1) I am a customer
+Feb-10-2021 Wednesday CST 11:21:04	{INFO}	com.app.main.MyCarDealerAppDriver	
+2) I am an employee
+Feb-10-2021 Wednesday CST 11:21:04	{INFO}	com.app.main.MyCarDealerAppDriver	
+3) Exit application
+Feb-10-2021 Wednesday CST 11:21:09	{TRACE}	com.app.menuFunction.AcquireInput	
+2(Logged)
+Feb-10-2021 Wednesday CST 11:21:09	{INFO}	com.app.menu.LoginMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:21:09	{INFO}	com.app.menu.LoginMenu	
+Please enter your user name.
+Feb-10-2021 Wednesday CST 11:21:11	{INFO}	com.app.menu.LoginMenu	
+Please enter your password
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+Hello! John.
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option.
+
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+1) Add a car to the lot.
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+2) Accept an offer for a car.
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+3) Reject and offer for a car.
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+4) Register a customer.
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+5) Remove a car from the lot.
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+6) View the payments for a customer.
+Feb-10-2021 Wednesday CST 11:21:12	{INFO}	com.app.menu.HomeMenu	
+7) Log out.
+Feb-10-2021 Wednesday CST 11:21:15	{TRACE}	com.app.menuFunction.AcquireInput	
+3(Logged)
+Feb-10-2021 Wednesday CST 11:21:15	{INFO}	com.app.menu.HomeMenu	
+Please enter the ID of the car.
+Feb-10-2021 Wednesday CST 11:21:17	{TRACE}	com.app.menuFunction.AcquireInput	
+25(Logged)
+Feb-10-2021 Wednesday CST 11:21:17	{INFO}	com.app.menu.HomeMenu	
+Which offer do you want to reject?
+Feb-10-2021 Wednesday CST 11:21:17	{INFO}	com.app.menu.HomeMenu	
+1) Offer [id=7, offer_by_customer=3, offer_created_time=Now, offer_completed_time=, offer_amount=1100.0, car_id=25, status=bidding, accepted_by=0, rejected_by=0]
+Feb-10-2021 Wednesday CST 11:21:17	{INFO}	com.app.menu.HomeMenu	
+2) Offer [id=1, offer_by_customer=3, offer_created_time=Now, offer_completed_time=, offer_amount=4560.5, car_id=25, status=bidding, accepted_by=0, rejected_by=0]
+Feb-10-2021 Wednesday CST 11:21:17	{INFO}	com.app.menu.HomeMenu	
+3) Offer [id=10, offer_by_customer=3, offer_created_time=now, offer_completed_time=, offer_amount=8888.0, car_id=25, status=bidding, accepted_by=0, rejected_by=0]
+Feb-10-2021 Wednesday CST 11:21:27	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+Offer rejected.
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option.
+
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+1) Add a car to the lot.
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+2) Accept an offer for a car.
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+3) Reject and offer for a car.
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+4) Register a customer.
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+5) Remove a car from the lot.
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+6) View the payments for a customer.
+Feb-10-2021 Wednesday CST 11:21:28	{INFO}	com.app.menu.HomeMenu	
+7) Log out.
+Feb-10-2021 Wednesday CST 11:21:33	{TRACE}	com.app.menuFunction.AcquireInput	
+2(Logged)
+Feb-10-2021 Wednesday CST 11:21:33	{INFO}	com.app.menu.HomeMenu	
+Please enter the ID of the car.
+Feb-10-2021 Wednesday CST 11:21:37	{TRACE}	com.app.menuFunction.AcquireInput	
+25(Logged)
+Feb-10-2021 Wednesday CST 11:21:38	{INFO}	com.app.menu.HomeMenu	
+Which offer do you want to accept?
+Feb-10-2021 Wednesday CST 11:21:38	{INFO}	com.app.menu.HomeMenu	
+1) Offer [id=1, offer_by_customer=3, offer_created_time=Now, offer_completed_time=, offer_amount=4560.5, car_id=25, status=bidding, accepted_by=0, rejected_by=0]
+Feb-10-2021 Wednesday CST 11:21:38	{INFO}	com.app.menu.HomeMenu	
+2) Offer [id=10, offer_by_customer=3, offer_created_time=now, offer_completed_time=, offer_amount=8888.0, car_id=25, status=bidding, accepted_by=0, rejected_by=0]
+Feb-10-2021 Wednesday CST 11:21:45	{TRACE}	com.app.menuFunction.AcquireInput	
+2(Logged)
+Feb-10-2021 Wednesday CST 11:21:45	{INFO}	com.app.menu.HomeMenu	
+Does the customer need a loan?
+Feb-10-2021 Wednesday CST 11:21:45	{INFO}	com.app.menu.HomeMenu	
+1) Yes.
+Feb-10-2021 Wednesday CST 11:21:45	{INFO}	com.app.menu.HomeMenu	
+2) No.
+Feb-10-2021 Wednesday CST 11:21:53	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 11:21:53	{INFO}	com.app.menuFunction.AcquireLoanInfo	
+How much does the customer need to borrow?
+Feb-10-2021 Wednesday CST 11:22:17	{TRACE}	com.app.menuFunction.AcquireInput	
+7200.0
+Feb-10-2021 Wednesday CST 11:22:17	{INFO}	com.app.menuFunction.AcquireLoanInfo	
+A down payment of $1688.0 is charged.
+Feb-10-2021 Wednesday CST 11:22:17	{INFO}	com.app.menuFunction.AcquireLoanInfo	
+Which plan does the customer prefer?
+Feb-10-2021 Wednesday CST 11:22:17	{INFO}	com.app.menuFunction.AcquireLoanInfo	
+1) CityLoan Zero % (36 months, 0% interst rate.).
+Feb-10-2021 Wednesday CST 11:22:40	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 11:22:40	{INFO}	com.app.menuFunction.AcquireLoanInfo	
+The estimated monthly will be $200.0
+Feb-10-2021 Wednesday CST 11:22:40	{INFO}	com.app.menuFunction.AcquireLoanInfo	
+Does the customer wish to continue?
+Feb-10-2021 Wednesday CST 11:22:40	{INFO}	com.app.menuFunction.AcquireLoanInfo	
+1) Yes.
+Feb-10-2021 Wednesday CST 11:22:40	{INFO}	com.app.menuFunction.AcquireLoanInfo	
+2) No.
+Feb-10-2021 Wednesday CST 11:22:51	{TRACE}	com.app.menuFunction.AcquireInput	
+1(Logged)
+Feb-10-2021 Wednesday CST 11:22:51	{INFO}	com.app.menuFunction.AcquireLoanInfo	
+Thank you for the confirmation!
+Feb-10-2021 Wednesday CST 11:22:51	{INFO}	com.app.menu.HomeMenu	
+The loan is accept!
+Feb-10-2021 Wednesday CST 11:22:52	{INFO}	com.app.menu.HomeMenu	
+Congratulations! The offer is completed. Please take care of the paper work.
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+36 payments were inserted to the database.
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+
+
+
+
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+-----Main Menu----
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+Please choose an option below by entering the number associated with that option.
+
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+1) Add a car to the lot.
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+2) Accept an offer for a car.
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+3) Reject and offer for a car.
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+4) Register a customer.
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+5) Remove a car from the lot.
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+6) View the payments for a customer.
+Feb-10-2021 Wednesday CST 11:22:53	{INFO}	com.app.menu.HomeMenu	
+7) Log out.
