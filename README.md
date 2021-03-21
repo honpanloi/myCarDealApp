@@ -20,11 +20,11 @@
 * As the system, I can calculate the monthly payment.
 
 ## Roles / Responsibilities 
-Database design and construct 
-Version control 
-Front end design and implementation
-Back end implementation
-Database connectivity
-Test case writing
-QA
-Debug
+- Database design and construct 
+- Version control 
+- Front end design and implementation
+- Back end implementation
+- Database connectivity
+- Test case writing
+- QA
+- Debug
